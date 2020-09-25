@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="nombre">Nombre Completo:</string>
+    <string name="fecha">Mes/Dia/Año</string>
+    <string name="celular">Telefono:</string>
+    <string name="Email">Email:</string>
+    <string name="Descripcion">Descripción General:</string>
+    <string name="Boton">Siguiente</string>
+    <string name="confirmacion">Confirmar Datos</string>
+    <string name="Fecha">Fecha de Nacimiento:</string>
+    <string name="des">Descripción:</string>
+    <string name="boton2">Editar Datos</string>
+</resources>
